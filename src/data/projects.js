@@ -8,9 +8,9 @@ export const projects = [
   {
     title: "3D Portfolio",
     image: getv,
-    link: "https://get-vulnerable.teshank.dev",
+    link: "https://3d-personal-website.vercel.app/",
     description:
-      "Game which encourages the players to open up by asking questions",
+      "You are on the 3D Website right now!",
   },
   {
     title: "React Infinite scroll",
