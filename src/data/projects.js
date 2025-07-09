@@ -1,7 +1,7 @@
 import stonks from "../assets/images/stonks.png";
 import sendfrom from "../assets/images/sendform.jpg";
 import semicolon from "../assets/images/semicolon.png";
-import scroll from "../assets/images/scroll.jpg";
+import farm from "../assets/images/farm.jpg";
 import getv from "../assets/images/get-v.jpg";
 
 export const projects = [
@@ -13,11 +13,11 @@ export const projects = [
       "You are on the 3D Website right now!",
   },
   {
-    title: "React Infinite scroll",
-    description: "Infinite scrolling using custom hook and ObservableAPI",
-    image: scroll,
-    link: "https://react-infinite-scroll-nu.vercel.app/",
-    github: "https://github.com/teshank2137/react-infinite-scroll",
+    title: "Farming Life",
+    description: "A farming game built in Elm to aid Parkinson's symptoms through gameplay and motor skill exercises.",
+    image: farm,
+    link: "https://stabl.rocks/ShowModulePublish?modulePublishId=eb4fb351-af3e-401f-a593-178ab685f741",
+    github: "https://github.com/tamillaaa/farming-life",
   },
   {
     title: "Algorithm Visualizer",
