@@ -24,13 +24,13 @@ export const projects = [
     description: "Web App to visualize the searching and sorting algorithms",
     image:
       "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/sort.JPG",
-    link: "https://teshank2137.github.io/#/",
+    link: "https://github.com/tamillaaa/Algorithm-Visualizer",
   },
   {
-    title: "Portfolio v1",
-    description: "Built using ReactJS, ThreeJS, CSS3 and lots of ❤️ love.",
+    title: "AI Demos",
+    description: "Demos about AI/ML concepts for workshops",
     image:
       "https://raw.githubusercontent.com/teshank2137/portfolio/v1/src/assets/images/port.JPG",
-    link: "https://www.v1.teshank.dev/",
+    link: "https://github.com/tamillaaa/mac-ai-demos",
   },
 ];
