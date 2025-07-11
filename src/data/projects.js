@@ -1,7 +1,7 @@
 import stonks from "../assets/images/stonks.png";
 import sendfrom from "../assets/images/sendform.jpg";
 import semicolon from "../assets/images/semicolon.png";
-import farm from "../assets/images/farm.jpg";
+import farm from "../assets/images/farm.png";
 import getv from "../assets/images/get-v.jpg";
 
 export const projects = [
